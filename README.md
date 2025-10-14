@@ -7,15 +7,15 @@
 
 ### 🧠 About Me
 - 💻 Data Analyst → Aspiring **Software Developer**
-- 🎓 Finishing my **A.A.S. in Computer Information Science (Dec 2025)**
-- 🚀 Transitioning into **Python, FastAPI, and Flask** development
+- 🎓 Finishing my **A.A.S. in Computer Information Science (Dec 2025)** → B.S. Software Engineering (Begins Feb 2026)
+- 📖 Eternal learner, professional googler
 - ☕ Fueled by coffee, curiosity, and clean code
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,sqlite,git,github,html,css,js,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,php,mysql,git,github,html,css,js" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.linkedin.com/in/logan-hill0617"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://YOUR-PORTFOLIO.com"><img src="https://skillicons.dev/icons?i=webflow" height="40"/></a>
 </p>
 
