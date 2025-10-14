@@ -32,7 +32,7 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/logan-hill0617"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=webflow" height="40"/></a>
+  <!-- <a href="#"><img src="https://skillicons.dev/icons?i=webflow" height="40"/></a> -->
 </p>
 
 ---
