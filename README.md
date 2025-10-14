@@ -28,7 +28,10 @@
 
 ### 🏅 Certifications
 <p align="center">
-  
+  <img src="https://certiport.pearsonvue.com/getattachment/Certifications/ITSpecialist/Certification/Badging/Software-Development/ITS-Badges_Software-Development_1200px.png?lang=en-US&width=600&height=600&ext=.png" height="200">
+  <img src="https://certiport.pearsonvue.com/getattachment/Certifications/ITSpecialist/Certification/Badging/Python/ITS-Badges_Python_1200px.png?lang=en-US&width=600&height=600&ext=.png" height="200">
+  <img src="https://images.credly.com/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png" height="200">
+  <img src="https://certiport.pearsonvue.com/getattachment/Certifications/ITSpecialist/Certification/Badging/Javascript/ITS-Badges_JavaScript_1200px.png?lang=en-US&width=600&height=600&ext=.png" height="200">
 </p>
 
 
