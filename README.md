@@ -5,7 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+There!+I'm+Logan.;An+Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
-<img src="https://github-stats-alpha.vercel.app/api?username=therealoganh&cc=22272e&tc=37BCF6&ic=fff&bc=37BCF6" alt="Logan GitHub Stats">
+<div>
+  <img src="https://github-stats-alpha.vercel.app/api?username=therealoganh&cc=22272e&tc=37BCF6&ic=fff&bc=37BCF6" alt="Logan GitHub Stats">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealoganh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=normal"> -->
+</div>
 
 ---
 
@@ -23,16 +26,18 @@
 
 ---
 
-### 📊 Github Stats
+### 🏅 Certifications
+<p align="center">
+  
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=therealoganh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
+  <p>LinkedIn</p>
   <a href="https://www.linkedin.com/in/logan-hill0617"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <!-- <a href="#"><img src="https://skillicons.dev/icons?i=webflow" height="40"/></a> -->
 </p>
 
 ---
