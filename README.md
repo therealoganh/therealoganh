@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Logan!%20👋&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=github.com/therealoganh👋&fontSize=40&fontColor=ffffff" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+There!+I'm+Logan;An+Aspiring+Software+Engineer+💻)](https://git.io/typing-svg)
