@@ -27,18 +27,42 @@
 ---
 
 ### 🏅 Certifications
-<p align="center">
-  <img src="https://certiport.pearsonvue.com/getattachment/Certifications/ITSpecialist/Certification/Badging/Software-Development/ITS-Badges_Software-Development_1200px.png?lang=en-US&width=600&height=600&ext=.png" height="200">
-  <img src="https://certiport.pearsonvue.com/getattachment/Certifications/ITSpecialist/Certification/Badging/Python/ITS-Badges_Python_1200px.png?lang=en-US&width=600&height=600&ext=.png" height="200">
-  <img src="https://images.credly.com/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png" height="200">
-  <img src="https://certiport.pearsonvue.com/getattachment/Certifications/ITSpecialist/Certification/Badging/Javascript/ITS-Badges_JavaScript_1200px.png?lang=en-US&width=600&height=600&ext=.png" height="200">
-</p>
+<a href="https://www.credly.com/badges/3127a616-5fa2-4ded-826e-cafedfecca64/public_url" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/therealoganh/therealoganh/main/it-specialist-software-development.png" 
+    alt="Certiport Software Development Badge"
+    width="150"
+  />
+</a>
 
+<a href="https://www.credly.com/badges/fd46d625-2d20-4549-a8af-d87d269b8d99/public_url" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/therealoganh/therealoganh/main/it-specialist-python-prog.png" 
+    alt="Certiport Python Badge"
+    width="150" 
+  />
+</a>
+
+<a href="https://www.credly.com/badges/4e84571f-ca98-439b-9054-4f2b3ce20d59/public_url" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/therealoganh/therealoganh/main/it-specialist-databases.png" 
+    alt="Certiport Databases Badge"
+    width="150" 
+  />
+</a>
+
+<a href="https://www.credly.com/badges/a8d7c29a-6fe0-4afa-bcf9-9e22dbcc7835/public_url" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/therealoganh/therealoganh/main/aws-academy-graduate-cloud-developing-training-badg.png" 
+    alt="AWS Academy Graduate Cloud Developing Badge"
+    width="150" 
+  />
+</a>
 
 ---
 
 ### 🌐 Connect With Me
-<p align="center">
+<p align="center" width=50>
   <p>LinkedIn</p>
   <a href="https://www.linkedin.com/in/logan-hill0617"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 </p>
