@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Logan!%20👋&fontSize=40&fontColor=ffffff" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+%20+Software+%20+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+There!+I'm+Logan;An+Aspiring+Software+Engineer+💻)](https://git.io/typing-svg)
 
 ---
 
@@ -24,7 +24,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=therealoganh&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therealoganh&theme=tokyonight" height="150" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=therealoganh&theme=dark)](https://git.io/streak-stats)
 </p>
 
 ---
