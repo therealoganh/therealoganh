@@ -1,9 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=github.com/therealoganh👋&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00008B,100:0072ff&height=200&section=header&text=greet_user()👋&fontSize=40&fontColor=ffffff" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+There!+I'm+Logan;An+Aspiring+Software+Engineer+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+There!+I'm+Logan.;An+Aspiring+Software+Engineer)](https://git.io/typing-svg)
+
+<img src="https://github-stats-alpha.vercel.app/api?username=therealoganh&cc=22272e&tc=37BCF6&ic=fff&bc=37BCF6" alt="Logan GitHub Stats">
 
 ---
 
@@ -16,16 +18,14 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,php,mysql,git,github,html,css,js,godot" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,php,mysql,git,html,css,js,godot" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealoganh&show_icons=true&theme=tokyonight" height="150" />
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=therealoganh&theme=dark)](https://git.io/streak-stats)
-</p>
+### 📊 Github Stats
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=therealoganh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -38,5 +38,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00008B,100:00c6ff&height=120&section=footer"/>
 </p>
