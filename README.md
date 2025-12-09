@@ -3,19 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00008B,100:0072ff&height=200&section=header&text=greet_user()👋&fontSize=40&fontColor=ffffff" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+There!+I'm+Logan.;An+Aspiring+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+There!+I'm+Logan.;An+Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
-<div>
-  <img src="https://github-stats-alpha.vercel.app/api?username=therealoganh&cc=22272e&tc=37BCF6&ic=fff&bc=37BCF6" alt="Logan GitHub Stats">
+  <!-- <img src="https://github-stats-alpha.vercel.app/api?username=therealoganh&cc=22272e&tc=37BCF6&ic=fff&bc=37BCF6" alt="Logan GitHub Stats"> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealoganh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=normal"> -->
-</div>
 
 ---
 
 ### 🧠 About Me
 - 💻 Data Analyst → **Software Engineering**
-- 🎓 Finishing my **A.A.S. in Computer Information Science (Dec 2025)** → B.S. Software Engineering (Begins Feb 2026)
-- 📖 Eternal learner, professional googler
+- 🎓 Pursuing **B.S. Software Engineering (Begins Feb 2026)**
+- 📖 Eternal Learner
 
 ---
 
