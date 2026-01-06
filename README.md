@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 - 💻 Data Analyst → **Software Engineering**
-- 🎓 Pursuing **B.S. Software Engineering (Begins Feb 2026)**
+- 🎓 Pursuing **B.S. Software Engineering**
 - 📖 Eternal Learner
 
 ---
