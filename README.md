@@ -1,35 +1,30 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00008B,100:0072ff&height=200&section=header&text=&fontSize=40&fontColor=ffffff" />
-</p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+There!+I'm+Logan.;An+Aspiring+Software+Engineer)](https://git.io/typing-svg)
-
-  <!-- <img src="https://github-stats-alpha.vercel.app/api?username=therealoganh&cc=22272e&tc=37BCF6&ic=fff&bc=37BCF6" alt="Logan GitHub Stats"> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealoganh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=normal"> -->
-
----
-
 ### 🧠 About Me
-- 💻 Data Analyst → **Software Engineering**
-- 🎓 Pursuing **B.S. Software Engineering**
-- 📖 Eternal Learner
+- 📊 Data Analyst moving into **Analytics Engineering**
+- ❄️ Builds and maintains production **Snowflake** views and SQL transformation logic
+- 🎓 Pursuing a **B.S. in Software Engineering**
+- 🌱 Learning **dbt**
 
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,php,mysql,git,html,css,js,godot" />
+
+<p>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL_%26_Data_Transformation-4B5563?style=for-the-badge" />
 </p>
 
 ---
 
 ### 🏅 Certifications
-<a href="https://www.credly.com/badges/3127a616-5fa2-4ded-826e-cafedfecca64/public_url" target="_blank">
+<a href="https://www.credly.com/badges/4e84571f-ca98-439b-9054-4f2b3ce20d59/public_url" target="_blank">
   <img 
-    src="https://raw.githubusercontent.com/therealoganh/therealoganh/main/it-specialist-software-development.png" 
-    alt="Certiport Software Development Badge"
-    width="150"
+    src="https://raw.githubusercontent.com/therealoganh/therealoganh/main/it-specialist-databases.png" 
+    alt="Certiport Databases Badge"
+    width="150" 
   />
 </a>
 
@@ -41,11 +36,11 @@
   />
 </a>
 
-<a href="https://www.credly.com/badges/4e84571f-ca98-439b-9054-4f2b3ce20d59/public_url" target="_blank">
+<a href="https://www.credly.com/badges/3127a616-5fa2-4ded-826e-cafedfecca64/public_url" target="_blank">
   <img 
-    src="https://raw.githubusercontent.com/therealoganh/therealoganh/main/it-specialist-databases.png" 
-    alt="Certiport Databases Badge"
-    width="150" 
+    src="https://raw.githubusercontent.com/therealoganh/therealoganh/main/it-specialist-software-development.png" 
+    alt="Certiport Software Development Badge"
+    width="150"
   />
 </a>
 
@@ -59,14 +54,13 @@
 
 ---
 
+<!--
+### 📂 Featured Project
+Placeholder for dbt project
+-->
+
 ### 🌐 Connect With Me
 <p align="center" width=50>
   <p>LinkedIn</p>
   <a href="https://www.linkedin.com/in/logan-hill0617"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00008B,100:00c6ff&height=120&section=footer"/>
 </p>
