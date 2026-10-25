@@ -54,10 +54,21 @@
 
 ---
 
-<!--
 ### 📂 Featured Project
-Placeholder for dbt project
--->
+
+<a href="https://github.com/therealoganh/dbt-fundamentals">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealoganh&repo=dbt-fundamentals&theme=tokyonight&show_owner=false" alt="dbt Fundamentals Repo" />
+</a>
+
+#### 🚀 [dbt Studio Data Pipeline](https://github.com/therealoganh/dbt-fundamentals)
+* **Technologies:** dbt Studio | Snowflake | SQL | Git |
+* **Architecture:** Implemented modular staging (`stg_`), and dimensional mart models (`fct_`, `dim_`).
+* **Data Quality & Testing:** Configured schema tests (`unique`, `not_null`, `relationships`), generic tests, and freshness checks.
+* **Documentation & Lineage:** Source, model, and column-level documentation.
+
+👉 **[View the project DAG here →](https://github.com/therealoganh/dbt-fundamentals/blob/main/completed-proj-dag.png)**
+
+---
 
 ### 🌐 Connect With Me
 <p align="center" width=50>
