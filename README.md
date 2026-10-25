@@ -20,6 +20,14 @@
 ---
 
 ### 🏅 Certifications
+<a href="https://credentials.getdbt.com/7ccd4b37-8025-4034-a759-2dd465cd3b21" target="_blank">
+  <img 
+    src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/198231783" 
+    alt="dbt Learn Fundamentals Badge"
+    width="150" 
+  />
+</a>
+
 <a href="https://www.credly.com/badges/4e84571f-ca98-439b-9054-4f2b3ce20d59/public_url" target="_blank">
   <img 
     src="https://raw.githubusercontent.com/therealoganh/therealoganh/main/it-specialist-databases.png" 
@@ -41,14 +49,6 @@
     src="https://raw.githubusercontent.com/therealoganh/therealoganh/main/it-specialist-software-development.png" 
     alt="Certiport Software Development Badge"
     width="150"
-  />
-</a>
-
-<a href="https://www.credly.com/badges/a8d7c29a-6fe0-4afa-bcf9-9e22dbcc7835/public_url" target="_blank">
-  <img 
-    src="https://raw.githubusercontent.com/therealoganh/therealoganh/main/aws-academy-graduate-cloud-developing-training-badg.png" 
-    alt="AWS Academy Graduate Cloud Developing Badge"
-    width="150" 
   />
 </a>
 
