@@ -1,6 +1,6 @@
 ### 🧠 About Me
 - 📊 Data Analyst moving into **Analytics Engineering**
-- ❄️ Builds and maintains production **Snowflake** views and SQL transformation logic
+- ❄️ Developing production SQL transformation logic and analytical data layers in Snowflake
 - 🎓 Pursuing a **B.S. in Software Engineering**
 - 🌱 Learning **dbt**
 
